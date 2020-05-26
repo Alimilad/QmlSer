@@ -1,4 +1,4 @@
-#! D:\Python36\python.exe
+#! python3
 import os
 import sys
 import configparser
